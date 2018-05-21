@@ -1,0 +1,24 @@
+
+html, body, :global(#root) {
+  height: 100%;
+}
+
+:global(.ant-upload.ant-upload-select-picture-card) {
+  width: 280px !important;
+  height: 280px !important;
+  margin: 0 auto !important;
+}
+
+:global(.ant-input.df-input) {
+  width: 200px;
+  margin: 4px;
+}
+
+:global(.anticon.anticon-plus-circle-o:hover,.anticon.anticon-plus-circle-o:hover) {
+  cursor: pointer;
+}
+
+:global(.df-product-fields) {
+  margin: 8px;
+}
+
